@@ -1,0 +1,29 @@
+#body
+{
+    display: flex;
+}
+#header 
+{
+    background-color: gray;
+    color: black; 
+    display: block-flex;
+}
+#menu
+{
+    background-color: black;
+    color: blanchedalmond;
+    display: flex; 
+    align-items: center;
+    justify-content: space-between;
+}
+ol
+{
+        margin: 0;
+        padding: 0;
+        list-style: none;
+}
+#images_header
+{
+    width: 500px;
+    height: 500px;
+}
